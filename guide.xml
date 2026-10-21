@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.6.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="HBO Family">
+    <display-name lang="pt">HBO Family</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20261021041500 -0300" stop="20261021060000 -0300" channel="HBO Family">
+    <title lang="pt">Os Smurfs</title>
+  </programme>
+  <programme start="20261021060000 -0300" stop="20261021072500 -0300" channel="HBO Family">
+    <title lang="pt">Os Jovens Titãs em Ação! nos Cinemas</title>
+  </programme>
+  <programme start="20261021072500 -0300" stop="20261021085200 -0300" channel="HBO Family">
+    <title lang="pt">Tá Dando Onda</title>
+  </programme>
+  <programme start="20261021085200 -0300" stop="20261021102100 -0300" channel="HBO Family">
+    <title lang="pt">Emoji: O Filme</title>
+  </programme>
+  <programme start="20261021102100 -0300" stop="20261021114300 -0300" channel="HBO Family">
+    <title lang="pt">As Meninas Superpoderosas - O Filme</title>
+  </programme>
+  <programme start="20261021114300 -0300" stop="20261021140200 -0300" channel="HBO Family">
+    <title lang="pt">O Espetacular Homem-Aranha</title>
+  </programme>
+  <programme start="20261021140200 -0300" stop="20261021154100 -0300" channel="HBO Family">
+    <title lang="pt">Pé Pequeno</title>
+  </programme>
+  <programme start="20261021154100 -0300" stop="20261021170900 -0300" channel="HBO Family">
+    <title lang="pt">O Bicho Vai Pegar 4</title>
+  </programme>
+  <programme start="20261021170900 -0300" stop="20261021180400 -0300" channel="HBO Family">
+    <title lang="pt">Línguas da Nossa Língua</title>
+  </programme>
+  <programme start="20261021180400 -0300" stop="20261021190300 -0300" channel="HBO Family">
+    <title lang="pt">Línguas da Nossa Língua</title>
+  </programme>
+  <programme start="20261021190300 -0300" stop="20261021200000 -0300" channel="HBO Family">
+    <title lang="pt">Línguas da Nossa Língua</title>
+  </programme>
+  <programme start="20261021200000 -0300" stop="20261021212900 -0300" channel="HBO Family">
+    <title lang="pt">Emoji: O Filme</title>
+  </programme>
+  <programme start="20261021212900 -0300" stop="20261021232700 -0300" channel="HBO Family">
+    <title lang="pt">Titio Noel</title>
+  </programme>
+  <programme start="20261021232700 -0300" stop="20261022020300 -0300" channel="HBO Family">
+    <title lang="pt">Harry Potter e o Enigma do Príncipe</title>
+  </programme>
+  <programme start="20261022020300 -0300" stop="20261022042700 -0300" channel="HBO Family">
+    <title lang="pt">Hook - A Volta do Capitão Gancho</title>
+  </programme>
+  <programme start="20261022042700 -0300" stop="20261022060000 -0300" channel="HBO Family">
+    <title lang="pt">Os Smurfs e a Vila Perdida</title>
+  </programme>
+  <programme start="20261022060000 -0300" stop="20261022072700 -0300" channel="HBO Family">
+    <title lang="pt">O Bicho Vai Pegar 4</title>
+  </programme>
+  <programme start="20261022072700 -0300" stop="20261022085700 -0300" channel="HBO Family">
+    <title lang="pt">Zoom: Academia de Super-Heróis</title>
+  </programme>
+  <programme start="20261022085700 -0300" stop="20261022104100 -0300" channel="HBO Family">
+    <title lang="pt">Lego Ninjago: O Filme</title>
+  </programme>
+  <programme start="20261022104100 -0300" stop="20261022121800 -0300" channel="HBO Family">
+    <title lang="pt">Karatê Kid: Lendas</title>
+  </programme>
+  <programme start="20261022121800 -0300" stop="20261022133600 -0300" channel="HBO Family">
+    <title lang="pt">O Bicho Vai Pegar 2</title>
+  </programme>
+  <programme start="20261022133600 -0300" stop="20261022150300 -0300" channel="HBO Family">
+    <title lang="pt">O Bicho Vai Pegar 4</title>
+  </programme>
+  <programme start="20261022150300 -0300" stop="20261022163400 -0300" channel="HBO Family">
+    <title lang="pt">Zoom: Academia de Super-Heróis</title>
+  </programme>
+  <programme start="20261022163400 -0300" stop="20261022182100 -0300" channel="HBO Family">
+    <title lang="pt">Pokémon: Detetive Pikachu</title>
+  </programme>
+  <programme start="20261022182100 -0300" stop="20261022200000 -0300" channel="HBO Family">
+    <title lang="pt">A Lenda dos Guardiões</title>
+  </programme>
+  <programme start="20261022200000 -0300" stop="20261022213700 -0300" channel="HBO Family">
+    <title lang="pt">Karatê Kid: Lendas</title>
+  </programme>
+  <programme start="20261022213700 -0300" stop="20261023000300 -0300" channel="HBO Family">
+    <title lang="pt">Aquaman</title>
+  </programme>
+  <programme start="20261023000300 -0300" stop="20261023015900 -0300" channel="HBO Family">
+    <title lang="pt">A Bússola de Ouro</title>
+  </programme>
+  <programme start="20261023015900 -0300" stop="20261023031800 -0300" channel="HBO Family">
+    <title lang="pt">A Noiva Cadáver</title>
+  </programme>
+  <programme start="20261023031800 -0300" stop="20261023044200 -0300" channel="HBO Family">
+    <title lang="pt">As Meninas Superpoderosas - O Filme</title>
+  </programme>
+  <programme start="20261023044200 -0300" stop="20261023060000 -0300" channel="HBO Family">
+    <title lang="pt">O Bicho Vai Pegar 2</title>
+  </programme>
+  <programme start="20261023060000 -0300" stop="20261023072600 -0300" channel="HBO Family">
+    <title lang="pt">Os Jovens Titãs em Ação! nos Cinemas</title>
+  </programme>
+  <programme start="20261023072600 -0300" stop="20261023084400 -0300" channel="HBO Family">
+    <title lang="pt">O Bicho Vai Pegar 2</title>
+  </programme>
+  <programme start="20261023084400 -0300" stop="20261023101100 -0300" channel="HBO Family">
+    <title lang="pt">Tá Dando Onda</title>
+  </programme>
+  <programme start="20261023101100 -0300" stop="20261023120900 -0300" channel="HBO Family">
+    <title lang="pt">Titio Noel</title>
+  </programme>
+  <programme start="20261023120900 -0300" stop="20261023134200 -0300" channel="HBO Family">
+    <title lang="pt">A Casa Monstro</title>
+  </programme>
+  <programme start="20261023134200 -0300" stop="20261023151300 -0300" channel="HBO Family">
+    <title lang="pt">As Múmias e o Anel Perdido</title>
+  </programme>
+  <programme start="20261023151300 -0300" stop="20261023165600 -0300" channel="HBO Family">
+    <title lang="pt">Tom &amp; Jerry: O Filme</title>
+  </programme>
+  <programme start="20261023165600 -0300" stop="20261023182200 -0300" channel="HBO Family">
+    <title lang="pt">Os Jovens Titãs em Ação! nos Cinemas</title>
+  </programme>
+  <programme start="20261023182200 -0300" stop="20261023200000 -0300" channel="HBO Family">
+    <title lang="pt">Tá Chovendo Hambúrguer 2</title>
+  </programme>
+  <programme start="20261023200000 -0300" stop="20261023220400 -0300" channel="HBO Family">
+    <title lang="pt">Liga da Justiça</title>
+  </programme>
+  <programme start="20261023220400 -0300" stop="20261023233900 -0300" channel="HBO Family">
+    <title lang="pt">Os Fantasmas se Divertem</title>
+  </programme>
+  <programme start="20261023233900 -0300" stop="20261024020000 -0300" channel="HBO Family">
+    <title lang="pt">Harry Potter e a Ordem da Fênix</title>
+  </programme>
+  <programme start="20261024020000 -0300" stop="20261024041600 -0300" channel="HBO Family">
+    <title lang="pt">Shazam! Fúria dos Deuses</title>
+  </programme>
+  <programme start="20261024041600 -0300" stop="20261024060000 -0300" channel="HBO Family">
+    <title lang="pt">Tom &amp; Jerry: O Filme</title>
+  </programme>
+  <programme start="20261024060000 -0300" stop="20261024073300 -0300" channel="HBO Family">
+    <title lang="pt">Hotel Transilvânia</title>
+  </programme>
+  <programme start="20261024073300 -0300" stop="20261024090400 -0300" channel="HBO Family">
+    <title lang="pt">Zoom: Academia de Super-Heróis</title>
+  </programme>
+  <programme start="20261024090400 -0300" stop="20261024113800 -0300" channel="HBO Family">
+    <title lang="pt">Harry Potter e a Pedra Filosofal</title>
+  </programme>
+  <programme start="20261024113800 -0300" stop="20261024132600 -0300" channel="HBO Family">
+    <title lang="pt">Pixels</title>
+  </programme>
+  <programme start="20261024132600 -0300" stop="20261024151300 -0300" channel="HBO Family">
+    <title lang="pt">Os Smurfs 2</title>
+  </programme>
+  <programme start="20261024151300 -0300" stop="20261024165700 -0300" channel="HBO Family">
+    <title lang="pt">Lego Ninjago: O Filme</title>
+  </programme>
+  <programme start="20261024165700 -0300" stop="20261024182600 -0300" channel="HBO Family">
+    <title lang="pt">Emoji: O Filme</title>
+  </programme>
+  <programme start="20261024182600 -0300" stop="20261024200000 -0300" channel="HBO Family">
+    <title lang="pt">Hotel Transilvânia</title>
+  </programme>
+  <programme start="20261024200000 -0300" stop="20261024213100 -0300" channel="HBO Family">
+    <title lang="pt">Hotel Transilvânia 2</title>
+  </programme>
+  <programme start="20261024213100 -0300" stop="20261024231700 -0300" channel="HBO Family">
+    <title lang="pt">Pokémon: Detetive Pikachu</title>
+  </programme>
+  <programme start="20261024231700 -0300" stop="20261025014000 -0300" channel="HBO Family">
+    <title lang="pt">Mulher-Maravilha</title>
+  </programme>
+  <programme start="20261025014000 -0300" stop="20261025030700 -0300" channel="HBO Family">
+    <title lang="pt">Tá Dando Onda</title>
+  </programme>
+  <programme start="20261025030700 -0300" stop="20261025042900 -0300" channel="HBO Family">
+    <title lang="pt">As Meninas Superpoderosas - O Filme</title>
+  </programme>
+  <programme start="20261025042900 -0300" stop="20261025060000 -0300" channel="HBO Family">
+    <title lang="pt">Hotel Transilvânia 2</title>
+  </programme>
+  <programme start="20261025060000 -0300" stop="20261025073800 -0300" channel="HBO Family">
+    <title lang="pt">Tá Chovendo Hambúrguer 2</title>
+  </programme>
+  <programme start="20261025073800 -0300" stop="20261025093200 -0300" channel="HBO Family">
+    <title lang="pt">Karatê Kid 3 - O Desafio Final</title>
+  </programme>
+  <programme start="20261025093200 -0300" stop="20261025112000 -0300" channel="HBO Family">
+    <title lang="pt">Pixels</title>
+  </programme>
+  <programme start="20261025112000 -0300" stop="20261025130100 -0300" channel="HBO Family">
+    <title lang="pt">Happy Feet 2: O Pinguim</title>
+  </programme>
+  <programme start="20261025130100 -0300" stop="20261025151700 -0300" channel="HBO Family">
+    <title lang="pt">Homem-Aranha: De Volta Ao Lar</title>
+  </programme>
+  <programme start="20261025151700 -0300" stop="20261025164400 -0300" channel="HBO Family">
+    <title lang="pt">O Bicho Vai Pegar 4</title>
+  </programme>
+  <programme start="20261025164400 -0300" stop="20261025182300 -0300" channel="HBO Family">
+    <title lang="pt">Pé Pequeno</title>
+  </programme>
+  <programme start="20261025182300 -0300" stop="20261025200000 -0300" channel="HBO Family">
+    <title lang="pt">Meu Malvado Favorito</title>
+  </programme>
+  <programme start="20261025200000 -0300" stop="20261025213800 -0300" channel="HBO Family">
+    <title lang="pt">Tá Chovendo Hambúrguer 2</title>
+  </programme>
+  <programme start="20261025213800 -0300" stop="20261025231500 -0300" channel="HBO Family">
+    <title lang="pt">Karatê Kid: Lendas</title>
+  </programme>
+  <programme start="20261025231500 -0300" stop="20261026013100 -0300" channel="HBO Family">
+    <title lang="pt">Homem-Aranha: De Volta Ao Lar</title>
+  </programme>
+  <programme start="20261026013100 -0300" stop="20261026030100 -0300" channel="HBO Family">
+    <title lang="pt">Zoom: Academia de Super-Heróis</title>
+  </programme>
+  <programme start="20261026030100 -0300" stop="20261026042100 -0300" channel="HBO Family">
+    <title lang="pt">A Noiva Cadáver</title>
+  </programme>
+  <programme start="20261026042100 -0300" stop="20261026060000 -0300" channel="HBO Family">
+    <title lang="pt">Pé Pequeno</title>
+  </programme>
+  <programme start="20261026060000 -0300" stop="20261026073600 -0300" channel="HBO Family">
+    <title lang="pt">Scooby! O Filme</title>
+  </programme>
+  <programme start="20261026073600 -0300" stop="20261026091300 -0300" channel="HBO Family">
+    <title lang="pt">Karatê Kid: Lendas</title>
+  </programme>
+  <programme start="20261026091300 -0300" stop="20261026114800 -0300" channel="HBO Family">
+    <title lang="pt">Harry Potter e a Pedra Filosofal</title>
+  </programme>
+  <programme start="20261026114800 -0300" stop="20261026132100 -0300" channel="HBO Family">
+    <title lang="pt">A Casa Monstro</title>
+  </programme>
+  <programme start="20261026132100 -0300" stop="20261026145600 -0300" channel="HBO Family">
+    <title lang="pt">Os Fantasmas se Divertem</title>
+  </programme>
+  <programme start="20261026145600 -0300" stop="20261026164400 -0300" channel="HBO Family">
+    <title lang="pt">Pixels</title>
+  </programme>
+  <programme start="20261026164400 -0300" stop="20261026182900 -0300" channel="HBO Family">
+    <title lang="pt">Os Smurfs</title>
+  </programme>
+  <programme start="20261026182900 -0300" stop="20261026200000 -0300" channel="HBO Family">
+    <title lang="pt">As Múmias e o Anel Perdido</title>
+  </programme>
+  <programme start="20261026200000 -0300" stop="20261026213300 -0300" channel="HBO Family">
+    <title lang="pt">A Casa Monstro</title>
+  </programme>
+  <programme start="20261026213300 -0300" stop="20261027000800 -0300" channel="HBO Family">
+    <title lang="pt">Harry Potter e a Pedra Filosofal</title>
+  </programme>
+  <programme start="20261027000800 -0300" stop="20261027021100 -0300" channel="HBO Family">
+    <title lang="pt">Liga da Justiça</title>
+  </programme>
+  <programme start="20261027021100 -0300" stop="20261027042900 -0300" channel="HBO Family">
+    <title lang="pt">O Espetacular Homem-Aranha</title>
+  </programme>
+  <programme start="20261027042900 -0300" stop="20261027060000 -0300" channel="HBO Family">
+    <title lang="pt">As Múmias e o Anel Perdido</title>
+  </programme>
+  <programme start="20261027060000 -0300" stop="20261027075000 -0300" channel="HBO Family">
+    <title lang="pt">Os Smurfs 2</title>
+  </programme>
+  <programme start="20261027075000 -0300" stop="20261027103000 -0300" channel="HBO Family">
+    <title lang="pt">Harry Potter e o Cálice de Fogo</title>
+  </programme>
+  <programme start="20261027103000 -0300" stop="20261027115000 -0300" channel="HBO Family">
+    <title lang="pt">A Noiva Cadáver</title>
+  </programme>
+  <programme start="20261027115000 -0300" stop="20261027140300 -0300" channel="HBO Family">
+    <title lang="pt">Shazam! Fúria dos Deuses</title>
+  </programme>
+  <programme start="20261027140300 -0300" stop="20261027153200 -0300" channel="HBO Family">
+    <title lang="pt">Cegonhas: A História que não Te Contaram</title>
+  </programme>
+  <programme start="20261027153200 -0300" stop="20261027171600 -0300" channel="HBO Family">
+    <title lang="pt">Tom &amp; Jerry: O Filme</title>
+  </programme>
+  <programme start="20261027171600 -0300" stop="20261027180600 -0300" channel="HBO Family">
+    <title lang="pt">Línguas da Nossa Língua</title>
+  </programme>
+  <programme start="20261027180600 -0300" stop="20261027190100 -0300" channel="HBO Family">
+    <title lang="pt">Línguas da Nossa Língua</title>
+  </programme>
+  <programme start="20261027190100 -0300" stop="20261027200000 -0300" channel="HBO Family">
+    <title lang="pt">Línguas da Nossa Língua</title>
+  </programme>
+  <programme start="20261027200000 -0300" stop="20261027214100 -0300" channel="HBO Family">
+    <title lang="pt">Meu Malvado Favorito 2</title>
+  </programme>
+  <programme start="20261027214100 -0300" stop="20261028002100 -0300" channel="HBO Family">
+    <title lang="pt">Harry Potter e o Cálice de Fogo</title>
+  </programme>
+</tv>
