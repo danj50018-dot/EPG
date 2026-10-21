@@ -1,616 +1,617 @@
-<tv generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V5.6.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-<channel id="SBT">
-<display-name lang="pt">SBT</display-name>
-<url>http://www.sky.com.br</url>
-</channel>
-<channel id="Globo">
-<display-name lang="pt">Globo</display-name>
-<url>http://www.sky.com.br</url>
-</channel>
-<channel id="Globo FHD">
-<display-name lang="pt">Globo FHD</display-name>
-<url>http://www.meuguia.tv</url>
-</channel>
-<channel id="MEGAPIX">
-<display-name lang="pt">MEGAPIX</display-name>
-<url>http://www.sky.com.br</url>
-</channel>
-<channel id="Telecine Pipoca">
-<display-name lang="pt">Telecine Pipoca</display-name>
-<url>http://www.meuguia.tv</url>
-</channel>
-<programme start="20261021050000 -0300" stop="20261021060000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews (5h) - Ao Vivo</title>
-</programme>
-<programme start="20261021060000 -0300" stop="20261021063000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews (6h) - Ao Vivo</title>
-</programme>
-<programme start="20261021063000 -0300" stop="20261021082500 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Em Ponto - Ao Vivo</title>
-</programme>
-<programme start="20261021082500 -0300" stop="20261021110000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Radar - Ao Vivo</title>
-</programme>
-<programme start="20261021110000 -0300" stop="20261021125500 -0300" channel="Globo FHD">
-<title lang="pt">Conexão GloboNews - Ao Vivo</title>
-</programme>
-<programme start="20261021125500 -0300" stop="20261021160000 -0300" channel="Globo FHD">
-<title lang="pt">Estúdio i - Ao Vivo</title>
-</programme>
-<programme start="20261021160000 -0300" stop="20261021180000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Mais - Ao Vivo</title>
-</programme>
-<programme start="20261021180000 -0300" stop="20261021190000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Edição Das 18h - Ao Vivo</title>
-</programme>
-<programme start="20261021190000 -0300" stop="20261021200000 -0300" channel="Globo FHD">
-<title lang="pt">Central Das Eleições - Ao Vivo</title>
-</programme>
-<programme start="20261021200000 -0300" stop="20261021220000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Em Pauta - Ao Vivo</title>
-</programme>
-<programme start="20261021220000 -0300" stop="20261022000000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal Das Dez - Ao Vivo</title>
-</programme>
-<programme start="20261022000000 -0300" stop="20261022010000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Edição Da Meia-Noite - Ao Vivo</title>
-</programme>
-<programme start="20261022010000 -0300" stop="20261022030000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Em Pauta</title>
-</programme>
-<programme start="20261022030000 -0300" stop="20261022050000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal Das Dez</title>
-</programme>
-<programme start="20261022050000 -0300" stop="20261022060000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews (5h) - Ao Vivo</title>
-</programme>
-<programme start="20261022060000 -0300" stop="20261022063000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews (6h) - Ao Vivo</title>
-</programme>
-<programme start="20261022063000 -0300" stop="20261022082500 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Em Ponto - Ao Vivo</title>
-</programme>
-<programme start="20261022082500 -0300" stop="20261022110000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Radar - Ao Vivo</title>
-</programme>
-<programme start="20261022110000 -0300" stop="20261022125500 -0300" channel="Globo FHD">
-<title lang="pt">Conexão GloboNews - Ao Vivo</title>
-</programme>
-<programme start="20261022125500 -0300" stop="20261022160000 -0300" channel="Globo FHD">
-<title lang="pt">Estúdio i - Ao Vivo</title>
-</programme>
-<programme start="20261022160000 -0300" stop="20261022180000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Mais - Ao Vivo</title>
-</programme>
-<programme start="20261022180000 -0300" stop="20261022190000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Edição Das 18h - Ao Vivo</title>
-</programme>
-<programme start="20261022190000 -0300" stop="20261022200000 -0300" channel="Globo FHD">
-<title lang="pt">Central Das Eleições - Ao Vivo</title>
-</programme>
-<programme start="20261022200000 -0300" stop="20261022210000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Em Pauta - Ao Vivo</title>
-</programme>
-<programme start="20261022210000 -0300" stop="20261022220000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Especial - Ao Vivo</title>
-</programme>
-<programme start="20261022220000 -0300" stop="20261023000000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal Das Dez - Ao Vivo</title>
-</programme>
-<programme start="20261023000000 -0300" stop="20261023011500 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Edição Da Meia-Noite - Ao Vivo</title>
-</programme>
-<programme start="20261023011500 -0300" stop="20261023021000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Em Pauta</title>
-</programme>
-<programme start="20261023021000 -0300" stop="20261023030000 -0300" channel="Globo FHD">
-<title lang="pt">Globo Repórter</title>
-</programme>
-<programme start="20261023030000 -0300" stop="20261023050000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal Das Dez</title>
-</programme>
-<programme start="20261023050000 -0300" stop="20261023060000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews (5h) - Ao Vivo</title>
-</programme>
-<programme start="20261023060000 -0300" stop="20261023070000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Edição das 06h - Ao Vivo</title>
-</programme>
-<programme start="20261023070000 -0300" stop="20261023073000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Edição das 07h - Ao Vivo</title>
-</programme>
-<programme start="20261023073000 -0300" stop="20261023080000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Especial</title>
-</programme>
-<programme start="20261023080000 -0300" stop="20261023090000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Edição das 08h - Ao Vivo</title>
-</programme>
-<programme start="20261023090000 -0300" stop="20261023100000 -0300" channel="Globo FHD">
-<title lang="pt">Globo Repórter</title>
-</programme>
-<programme start="20261023100000 -0300" stop="20261023120000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
-</programme>
-<programme start="20261023120000 -0300" stop="20261023143000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Edição do Meio-dia - Ao Vivo</title>
-</programme>
-<programme start="20261023143000 -0300" stop="20261023150000 -0300" channel="Globo FHD">
-<title lang="pt">Cidades e Soluções</title>
-</programme>
-<programme start="20261023150000 -0300" stop="20261023180000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Edição das 15h - Ao Vivo</title>
-</programme>
-<programme start="20261023180000 -0300" stop="20261023200000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews Edição das 18h - Ao Vivo</title>
-</programme>
-<programme start="20261023200000 -0300" stop="20261023213000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Edição das 20h - Ao Vivo</title>
-</programme>
-<programme start="20261023213000 -0300" stop="20261023220000 -0300" channel="Globo FHD">
-<title lang="pt">Cidades e Soluções</title>
-</programme>
-<programme start="20261023220000 -0300" stop="20261023230000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal das Dez</title>
-</programme>
-<programme start="20261023230000 -0300" stop="20261024003000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Documentário</title>
-</programme>
-<programme start="20261024003000 -0300" stop="20261024013000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews Edição da Meia-noite - Ao Vivo</title>
-</programme>
-<programme start="20261024013000 -0300" stop="20261024023000 -0300" channel="Globo FHD">
-<title lang="pt">Globo Repórter</title>
-</programme>
-<programme start="20261024023000 -0300" stop="20261024030000 -0300" channel="Globo FHD">
-<title lang="pt">Cidades e Soluções</title>
-</programme>
-<programme start="20261024030000 -0300" stop="20261024043000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Ao Vivo</title>
-</programme>
-<programme start="20261024043000 -0300" stop="20261024050000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Especial</title>
-</programme>
-<programme start="20261024050000 -0300" stop="20261024060000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal das Dez</title>
-</programme>
-<programme start="20261024060000 -0300" stop="20261024062000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Edição das 06h - Ao Vivo</title>
-</programme>
-<programme start="20261024062000 -0300" stop="20261024070000 -0300" channel="Globo FHD">
-<title lang="pt">Globo Repórter</title>
-</programme>
-<programme start="20261024070000 -0300" stop="20261024080000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Edição das 07h - Ao Vivo</title>
-</programme>
-<programme start="20261024080000 -0300" stop="20261024100000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Edição das 08h - Ao Vivo</title>
-</programme>
-<programme start="20261024100000 -0300" stop="20261024110000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
-</programme>
-<programme start="20261024110000 -0300" stop="20261024123000 -0300" channel="Globo FHD">
-<title lang="pt">Globo Rural</title>
-</programme>
-<programme start="20261024123000 -0300" stop="20261024142000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Edição do Meio-dia - Ao Vivo</title>
-</programme>
-<programme start="20261024142000 -0300" stop="20261024150000 -0300" channel="Globo FHD">
-<title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
-</programme>
-<programme start="20261024150000 -0300" stop="20261024173000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Edição das 15h - Ao Vivo</title>
-</programme>
-<programme start="20261024173000 -0300" stop="20261024180000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Especial</title>
-</programme>
-<programme start="20261024180000 -0300" stop="20261024193000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews Edição das 18h - Ao Vivo</title>
-</programme>
-<programme start="20261024193000 -0300" stop="20261024200000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Internacional - Ao Vivo</title>
-</programme>
-<programme start="20261024200000 -0300" stop="20261024220000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews Edição das 18h - Ao Vivo</title>
-</programme>
-<programme start="20261024220000 -0300" stop="20261024233500 -0300" channel="Globo FHD">
-<title lang="pt">Jornal das Dez</title>
-</programme>
-<programme start="20261024233500 -0300" stop="20261025023500 -0300" channel="Globo FHD">
-<title lang="pt">Fantástico</title>
-</programme>
-<programme start="20261025023500 -0300" stop="20261025032000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Ao Vivo</title>
-</programme>
-<programme start="20261025032000 -0300" stop="20261025040000 -0300" channel="Globo FHD">
-<title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
-</programme>
-<programme start="20261025040000 -0300" stop="20261025050000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal das Dez</title>
-</programme>
-<programme start="20261025050000 -0300" stop="20261025060000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Ao Vivo</title>
-</programme>
-<programme start="20261025060000 -0300" stop="20261025063000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Ao Vivo</title>
-</programme>
-<programme start="20261025063000 -0300" stop="20261025082500 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Em Ponto - Ao Vivo</title>
-</programme>
-<programme start="20261025082500 -0300" stop="20261025110000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Radar - Ao Vivo</title>
-</programme>
-<programme start="20261025110000 -0300" stop="20261025130000 -0300" channel="Globo FHD">
-<title lang="pt">Conexão GloboNews - Ao Vivo</title>
-</programme>
-<programme start="20261025130000 -0300" stop="20261025160000 -0300" channel="Globo FHD">
-<title lang="pt">Estúdio i - Ao Vivo</title>
-</programme>
-<programme start="20261025160000 -0300" stop="20261025180000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Mais - Ao Vivo</title>
-</programme>
-<programme start="20261025180000 -0300" stop="20261025200000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews Edição das 18h - Ao Vivo</title>
-</programme>
-<programme start="20261025200000 -0300" stop="20261025220000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Em Pauta</title>
-</programme>
-<programme start="20261025220000 -0300" stop="20261025233000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal das Dez</title>
-</programme>
-<programme start="20261025233000 -0300" stop="20261026000000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Especial</title>
-</programme>
-<programme start="20261026000000 -0300" stop="20261026010000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews Edição da Meia-noite - Ao Vivo</title>
-</programme>
-<programme start="20261026010000 -0300" stop="20261026030000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Em Pauta</title>
-</programme>
-<programme start="20261026030000 -0300" stop="20261026033000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Especial</title>
-</programme>
-<programme start="20261026033000 -0300" stop="20261026050000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal das Dez</title>
-</programme>
-<programme start="20261026050000 -0300" stop="20261026060000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Ao Vivo</title>
-</programme>
-<programme start="20261026060000 -0300" stop="20261026063000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Ao Vivo</title>
-</programme>
-<programme start="20261026063000 -0300" stop="20261026082500 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Em Ponto - Ao Vivo</title>
-</programme>
-<programme start="20261026082500 -0300" stop="20261026110000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Radar - Ao Vivo</title>
-</programme>
-<programme start="20261026110000 -0300" stop="20261026130000 -0300" channel="Globo FHD">
-<title lang="pt">Conexão GloboNews - Ao Vivo</title>
-</programme>
-<programme start="20261026130000 -0300" stop="20261026160000 -0300" channel="Globo FHD">
-<title lang="pt">Estúdio i - Ao Vivo</title>
-</programme>
-<programme start="20261026160000 -0300" stop="20261026180000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Mais - Ao Vivo</title>
-</programme>
-<programme start="20261026180000 -0300" stop="20261026200000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews Edição das 18h - Ao Vivo</title>
-</programme>
-<programme start="20261026200000 -0300" stop="20261026220000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Em Pauta</title>
-</programme>
-<programme start="20261026220000 -0300" stop="20261026233000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal das Dez</title>
-</programme>
-<programme start="20261026233000 -0300" stop="20261027000000 -0300" channel="Globo FHD">
-<title lang="pt">Programação do Canal</title>
-</programme>
-<programme start="20261027000000 -0300" stop="20261027010000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews Edição da Meia-noite - Ao Vivo</title>
-</programme>
-<programme start="20261027010000 -0300" stop="20261027030000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Em Pauta</title>
-</programme>
-<programme start="20261027030000 -0300" stop="20261027033000 -0300" channel="Globo FHD">
-<title lang="pt">Programação do Canal</title>
-</programme>
-<programme start="20261027033000 -0300" stop="20261027050000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal das Dez</title>
-</programme>
-<programme start="20261027050000 -0300" stop="20261027060000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Ao Vivo</title>
-</programme>
-<programme start="20261027060000 -0300" stop="20261027063000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews - Ao Vivo</title>
-</programme>
-<programme start="20261027063000 -0300" stop="20261027082500 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Em Ponto - Ao Vivo</title>
-</programme>
-<programme start="20261027082500 -0300" stop="20261027110000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Radar - Ao Vivo</title>
-</programme>
-<programme start="20261027110000 -0300" stop="20261027130000 -0300" channel="Globo FHD">
-<title lang="pt">Conexão GloboNews - Ao Vivo</title>
-</programme>
-<programme start="20261027130000 -0300" stop="20261027160000 -0300" channel="Globo FHD">
-<title lang="pt">Estúdio i - Ao Vivo</title>
-</programme>
-<programme start="20261027160000 -0300" stop="20261027180000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Mais - Ao Vivo</title>
-</programme>
-<programme start="20261027180000 -0300" stop="20261027200000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal GloboNews Edição das 18h - Ao Vivo</title>
-</programme>
-<programme start="20261027200000 -0300" stop="20261027220000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Em Pauta</title>
-</programme>
-<programme start="20261027220000 -0300" stop="20261027233000 -0300" channel="Globo FHD">
-<title lang="pt">Jornal das Dez</title>
-</programme>
-<programme start="20261027233000 -0300" stop="20261028000000 -0300" channel="Globo FHD">
-<title lang="pt">GloboNews Miriam Leitão</title>
-</programme>
-<programme start="20261021052500 -0300" stop="20261021065000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Muito Bem Acompanhada</title>
-</programme>
-<programme start="20261021065000 -0300" stop="20261021082500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Princesa Por Acidente</title>
-</programme>
-<programme start="20261021082500 -0300" stop="20261021100500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Eu Sou a Lenda</title>
-</programme>
-<programme start="20261021100500 -0300" stop="20261021120500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Queima de Arquivo</title>
-</programme>
-<programme start="20261021120500 -0300" stop="20261021142000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Círculo de Fogo</title>
-</programme>
-<programme start="20261021142000 -0300" stop="20261021162500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Invasão Zumbi 2: Península</title>
-</programme>
-<programme start="20261021162500 -0300" stop="20261021181500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Tempo</title>
-</programme>
-<programme start="20261021181500 -0300" stop="20261021201000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Alemão 2</title>
-</programme>
-<programme start="20261021201000 -0300" stop="20261021220000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Corra!</title>
-</programme>
-<programme start="20261021220000 -0300" stop="20261022001000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Sessão Superestreia: O Beijo da Mulher-Aranha</title>
-</programme>
-<programme start="20261022001000 -0300" stop="20261022022500 -0300" channel="Telecine Pipoca">
-<title lang="pt">A Empregada</title>
-</programme>
-<programme start="20261022022500 -0300" stop="20261022041500 -0300" channel="Telecine Pipoca">
-<title lang="pt">O Telefone Preto</title>
-</programme>
-<programme start="20261022041500 -0300" stop="20261022060500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Emmanuelle</title>
-</programme>
-<programme start="20261022060500 -0300" stop="20261022080000 -0300" channel="Telecine Pipoca">
-<title lang="pt">A Múmia: Tumba Do Imperador Dragão</title>
-</programme>
-<programme start="20261022080000 -0300" stop="20261022093500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Alvin E Os Esquilos</title>
-</programme>
-<programme start="20261022093500 -0300" stop="20261022111000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Viagem 2: A Ilha Misteriosa</title>
-</programme>
-<programme start="20261022111000 -0300" stop="20261022123500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Muito Bem Acompanhada</title>
-</programme>
-<programme start="20261022123500 -0300" stop="20261022142500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Agentes Muito Especiais</title>
-</programme>
-<programme start="20261022142500 -0300" stop="20261022163500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Orgulho E Preconceito</title>
-</programme>
-<programme start="20261022163500 -0300" stop="20261022182000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Fúria Sobre Rodas</title>
-</programme>
-<programme start="20261022182000 -0300" stop="20261022203500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Drácula: Uma História de Amor Eterno</title>
-</programme>
-<programme start="20261022203500 -0300" stop="20261022220000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Socorro! Minha Babá Tirou Férias!</title>
-</programme>
-<programme start="20261022220000 -0300" stop="20261023000000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Kong: A Ilha Da Caveira</title>
-</programme>
-<programme start="20261023000000 -0300" stop="20261023014000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Lutador De Rua</title>
-</programme>
-<programme start="20261023014000 -0300" stop="20261023033000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Corra!</title>
-</programme>
-<programme start="20261023033000 -0300" stop="20261023052500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Halloween Ends</title>
-</programme>
-<programme start="20261023052500 -0300" stop="20261023071000 -0300" channel="Telecine Pipoca">
-<title lang="pt">O Duelo</title>
-</programme>
-<programme start="20261023071000 -0300" stop="20261023092000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Doze Homens e Outro Segredo</title>
-</programme>
-<programme start="20261023092000 -0300" stop="20261023094500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Aceito</title>
-</programme>
-<programme start="20261023094500 -0300" stop="20261023115500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Van Helsing - O Caçador De Monstros</title>
-</programme>
-<programme start="20261023115500 -0300" stop="20261023141000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Um Sonho Possível</title>
-</programme>
-<programme start="20261023141000 -0300" stop="20261023154500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Abominável</title>
-</programme>
-<programme start="20261023154500 -0300" stop="20261023180000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Círculo de Fogo</title>
-</programme>
-<programme start="20261023180000 -0300" stop="20261023194000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Rota De Fuga 3 - O Resgate</title>
-</programme>
-<programme start="20261023194000 -0300" stop="20261023215500 -0300" channel="Telecine Pipoca">
-<title lang="pt">A Empregada</title>
-</programme>
-<programme start="20261023215500 -0300" stop="20261023220000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Preview No Pipoca</title>
-</programme>
-<programme start="20261023220000 -0300" stop="20261023235000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Velvet Lounge: Noites de Caça</title>
-</programme>
-<programme start="20261023235000 -0300" stop="20261024020000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Deuses Do Egito</title>
-</programme>
-<programme start="20261024020000 -0300" stop="20261024034000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Desconhecidos</title>
-</programme>
-<programme start="20261024034000 -0300" stop="20261024061500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Os Infiltrados</title>
-</programme>
-<programme start="20261024061500 -0300" stop="20261024081500 -0300" channel="Telecine Pipoca">
-<title lang="pt">A Escolha Perfeita (2012)</title>
-</programme>
-<programme start="20261024081500 -0300" stop="20261024100000 -0300" channel="Telecine Pipoca">
-<title lang="pt">A Casa do Lago</title>
-</programme>
-<programme start="20261024100000 -0300" stop="20261024114000 -0300" channel="Telecine Pipoca">
-<title lang="pt">O Grande Dave</title>
-</programme>
-<programme start="20261024114000 -0300" stop="20261024133000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Como Treinar o Seu Dragão 3</title>
-</programme>
-<programme start="20261024133000 -0300" stop="20261024133500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Preview No Pipoca</title>
-</programme>
-<programme start="20261024133500 -0300" stop="20261024152000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Vovó... Zona 2</title>
-</programme>
-<programme start="20261024152000 -0300" stop="20261024175500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Stray Kids: The DominATE Experience</title>
-</programme>
-<programme start="20261024175500 -0300" stop="20261024194500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Fúria Sobre Rodas</title>
-</programme>
-<programme start="20261024194500 -0300" stop="20261024220000 -0300" channel="Telecine Pipoca">
-<title lang="pt">O Beijo da Mulher-Aranha</title>
-</programme>
-<programme start="20261024220000 -0300" stop="20261024234000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Lutador De Rua</title>
-</programme>
-<programme start="20261024234000 -0300" stop="20261025012500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Perseguição em Taipei</title>
-</programme>
-<programme start="20261025012500 -0300" stop="20261025030500 -0300" channel="Telecine Pipoca">
-<title lang="pt">57 Segundos</title>
-</programme>
-<programme start="20261025030500 -0300" stop="20261025052000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Enterre Seus Mortos</title>
-</programme>
-<programme start="20261025052000 -0300" stop="20261025065000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Toc Toc Toc: Ecos do Além</title>
-</programme>
-<programme start="20261025065000 -0300" stop="20261025084500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Os Três Mosqueteiros: Milady</title>
-</programme>
-<programme start="20261025084500 -0300" stop="20261025105500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Orgulho E Preconceito</title>
-</programme>
-<programme start="20261025105500 -0300" stop="20261025124500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Um Suburbano Sortudo</title>
-</programme>
-<programme start="20261025124500 -0300" stop="20261025142500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Os Croods</title>
-</programme>
-<programme start="20261025142500 -0300" stop="20261025163000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Deuses Do Egito</title>
-</programme>
-<programme start="20261025163000 -0300" stop="20261025180000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Os Flintstones: O Filme</title>
-</programme>
-<programme start="20261025180000 -0300" stop="20261025200000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Kong: A Ilha Da Caveira</title>
-</programme>
-<programme start="20261025200000 -0300" stop="20261025214000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Sessão Superestreia: A Noite dos Lobisomens</title>
-</programme>
-<programme start="20261025214000 -0300" stop="20261025232000 -0300" channel="Telecine Pipoca">
-<title lang="pt">O Mestre do Crime</title>
-</programme>
-<programme start="20261025232000 -0300" stop="20261026020000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Gladiador</title>
-</programme>
-<programme start="20261026020000 -0300" stop="20261026045000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Boyhood: Da Infância À Juventude</title>
-</programme>
-<programme start="20261026045000 -0300" stop="20261026064000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Como Treinar o Seu Dragão 3</title>
-</programme>
-<programme start="20261026064000 -0300" stop="20261026081500 -0300" channel="Telecine Pipoca">
-<title lang="pt">As Apimentadas Mandando Ver</title>
-</programme>
-<programme start="20261026081500 -0300" stop="20261026084000 -0300" channel="Telecine Pipoca">
-<title lang="pt">O Pai Da Rainha De Angola</title>
-</programme>
-<programme start="20261026084000 -0300" stop="20261026102500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Apex</title>
-</programme>
-<programme start="20261026102500 -0300" stop="20261026123000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Red Rooms: Obsessão Doentia</title>
-</programme>
-<programme start="20261026123000 -0300" stop="20261026142000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Ela Dança, Eu Danço</title>
-</programme>
-<programme start="20261026142000 -0300" stop="20261026162500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Jurassic World: O Mundo Dos Dinossauros</title>
-</programme>
-<programme start="20261026162500 -0300" stop="20261026181500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Perseguição em Taipei</title>
-</programme>
-<programme start="20261026181500 -0300" stop="20261026201000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Bem-Vinda A Quixeramobim</title>
-</programme>
-<programme start="20261026201000 -0300" stop="20261026220000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Fúria de Titãs</title>
-</programme>
-<programme start="20261026220000 -0300" stop="20261026234000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Sem Deixar Vestígios</title>
-</programme>
-<programme start="20261026234000 -0300" stop="20261027012500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Vovó... Zona 2</title>
-</programme>
-<programme start="20261027012500 -0300" stop="20261027032500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Caçada Mortal</title>
-</programme>
-<programme start="20261027032500 -0300" stop="20261027060000 -0300" channel="Telecine Pipoca">
-<title lang="pt">O Regresso</title>
-</programme>
-<programme start="20261027060000 -0300" stop="20261027082500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Ainda Estou Aqui</title>
-</programme>
-<programme start="20261027082500 -0300" stop="20261027102500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Minha Irmã E Eu</title>
-</programme>
-<programme start="20261027102500 -0300" stop="20261027124500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Noé</title>
-</programme>
-<programme start="20261027124500 -0300" stop="20261027141500 -0300" channel="Telecine Pipoca">
-<title lang="pt">Madagascar 2: A Grande Escapada</title>
-</programme>
-<programme start="20261027141500 -0300" stop="20261027155500 -0300" channel="Telecine Pipoca">
-<title lang="pt">O Mestre do Crime</title>
-</programme>
-<programme start="20261027155500 -0300" stop="20261027173500 -0300" channel="Telecine Pipoca">
-<title lang="pt">A Fera do Pântano</title>
-</programme>
-<programme start="20261027173500 -0300" stop="20261027201000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Gladiador</title>
-</programme>
-<programme start="20261027201000 -0300" stop="20261027220000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Os Farofeiros 2</title>
-</programme>
-<programme start="20261027220000 -0300" stop="20261028001000 -0300" channel="Telecine Pipoca">
-<title lang="pt">Drácula: Uma História de Amor Eterno</title>
-</programme>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.6.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.sky.com.br</url>
+  </channel>
+  <channel id="Globo">
+    <display-name lang="pt">Globo</display-name>
+    <url>http://www.sky.com.br</url>
+  </channel>
+  <channel id="Globo FHD">
+    <display-name lang="pt">Globo FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="MEGAPIX">
+    <display-name lang="pt">MEGAPIX</display-name>
+    <url>http://www.sky.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca">
+    <display-name lang="pt">Telecine Pipoca</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20261021050000 -0300" stop="20261021060000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews (5h) - Ao Vivo</title>
+  </programme>
+  <programme start="20261021060000 -0300" stop="20261021063000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews (6h) - Ao Vivo</title>
+  </programme>
+  <programme start="20261021063000 -0300" stop="20261021082500 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Em Ponto - Ao Vivo</title>
+  </programme>
+  <programme start="20261021082500 -0300" stop="20261021110000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Radar - Ao Vivo</title>
+  </programme>
+  <programme start="20261021110000 -0300" stop="20261021125500 -0300" channel="Globo FHD">
+    <title lang="pt">Conexão GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20261021125500 -0300" stop="20261021160000 -0300" channel="Globo FHD">
+    <title lang="pt">Estúdio i - Ao Vivo</title>
+  </programme>
+  <programme start="20261021160000 -0300" stop="20261021180000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Mais - Ao Vivo</title>
+  </programme>
+  <programme start="20261021180000 -0300" stop="20261021190000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Edição Das 18h - Ao Vivo</title>
+  </programme>
+  <programme start="20261021190000 -0300" stop="20261021200000 -0300" channel="Globo FHD">
+    <title lang="pt">Central Das Eleições - Ao Vivo</title>
+  </programme>
+  <programme start="20261021200000 -0300" stop="20261021220000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Em Pauta - Ao Vivo</title>
+  </programme>
+  <programme start="20261021220000 -0300" stop="20261022000000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal Das Dez - Ao Vivo</title>
+  </programme>
+  <programme start="20261022000000 -0300" stop="20261022010000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Edição Da Meia-Noite - Ao Vivo</title>
+  </programme>
+  <programme start="20261022010000 -0300" stop="20261022030000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Em Pauta</title>
+  </programme>
+  <programme start="20261022030000 -0300" stop="20261022050000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal Das Dez</title>
+  </programme>
+  <programme start="20261022050000 -0300" stop="20261022060000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews (5h) - Ao Vivo</title>
+  </programme>
+  <programme start="20261022060000 -0300" stop="20261022063000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews (6h) - Ao Vivo</title>
+  </programme>
+  <programme start="20261022063000 -0300" stop="20261022082500 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Em Ponto - Ao Vivo</title>
+  </programme>
+  <programme start="20261022082500 -0300" stop="20261022110000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Radar - Ao Vivo</title>
+  </programme>
+  <programme start="20261022110000 -0300" stop="20261022125500 -0300" channel="Globo FHD">
+    <title lang="pt">Conexão GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20261022125500 -0300" stop="20261022160000 -0300" channel="Globo FHD">
+    <title lang="pt">Estúdio i - Ao Vivo</title>
+  </programme>
+  <programme start="20261022160000 -0300" stop="20261022180000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Mais - Ao Vivo</title>
+  </programme>
+  <programme start="20261022180000 -0300" stop="20261022190000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Edição Das 18h - Ao Vivo</title>
+  </programme>
+  <programme start="20261022190000 -0300" stop="20261022200000 -0300" channel="Globo FHD">
+    <title lang="pt">Central Das Eleições - Ao Vivo</title>
+  </programme>
+  <programme start="20261022200000 -0300" stop="20261022210000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Em Pauta - Ao Vivo</title>
+  </programme>
+  <programme start="20261022210000 -0300" stop="20261022220000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Especial - Ao Vivo</title>
+  </programme>
+  <programme start="20261022220000 -0300" stop="20261023000000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal Das Dez - Ao Vivo</title>
+  </programme>
+  <programme start="20261023000000 -0300" stop="20261023011500 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Edição Da Meia-Noite - Ao Vivo</title>
+  </programme>
+  <programme start="20261023011500 -0300" stop="20261023021000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Em Pauta</title>
+  </programme>
+  <programme start="20261023021000 -0300" stop="20261023030000 -0300" channel="Globo FHD">
+    <title lang="pt">Globo Repórter</title>
+  </programme>
+  <programme start="20261023030000 -0300" stop="20261023050000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal Das Dez</title>
+  </programme>
+  <programme start="20261023050000 -0300" stop="20261023060000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews (5h) - Ao Vivo</title>
+  </programme>
+  <programme start="20261023060000 -0300" stop="20261023070000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Edição das 06h - Ao Vivo</title>
+  </programme>
+  <programme start="20261023070000 -0300" stop="20261023073000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Edição das 07h - Ao Vivo</title>
+  </programme>
+  <programme start="20261023073000 -0300" stop="20261023080000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Especial</title>
+  </programme>
+  <programme start="20261023080000 -0300" stop="20261023090000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Edição das 08h - Ao Vivo</title>
+  </programme>
+  <programme start="20261023090000 -0300" stop="20261023100000 -0300" channel="Globo FHD">
+    <title lang="pt">Globo Repórter</title>
+  </programme>
+  <programme start="20261023100000 -0300" stop="20261023120000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
+  </programme>
+  <programme start="20261023120000 -0300" stop="20261023143000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Edição do Meio-dia - Ao Vivo</title>
+  </programme>
+  <programme start="20261023143000 -0300" stop="20261023150000 -0300" channel="Globo FHD">
+    <title lang="pt">Cidades e Soluções</title>
+  </programme>
+  <programme start="20261023150000 -0300" stop="20261023180000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Edição das 15h - Ao Vivo</title>
+  </programme>
+  <programme start="20261023180000 -0300" stop="20261023200000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews Edição das 18h - Ao Vivo</title>
+  </programme>
+  <programme start="20261023200000 -0300" stop="20261023213000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Edição das 20h - Ao Vivo</title>
+  </programme>
+  <programme start="20261023213000 -0300" stop="20261023220000 -0300" channel="Globo FHD">
+    <title lang="pt">Cidades e Soluções</title>
+  </programme>
+  <programme start="20261023220000 -0300" stop="20261023230000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20261023230000 -0300" stop="20261024003000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Documentário</title>
+  </programme>
+  <programme start="20261024003000 -0300" stop="20261024013000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews Edição da Meia-noite - Ao Vivo</title>
+  </programme>
+  <programme start="20261024013000 -0300" stop="20261024023000 -0300" channel="Globo FHD">
+    <title lang="pt">Globo Repórter</title>
+  </programme>
+  <programme start="20261024023000 -0300" stop="20261024030000 -0300" channel="Globo FHD">
+    <title lang="pt">Cidades e Soluções</title>
+  </programme>
+  <programme start="20261024030000 -0300" stop="20261024043000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20261024043000 -0300" stop="20261024050000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Especial</title>
+  </programme>
+  <programme start="20261024050000 -0300" stop="20261024060000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20261024060000 -0300" stop="20261024062000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Edição das 06h - Ao Vivo</title>
+  </programme>
+  <programme start="20261024062000 -0300" stop="20261024070000 -0300" channel="Globo FHD">
+    <title lang="pt">Globo Repórter</title>
+  </programme>
+  <programme start="20261024070000 -0300" stop="20261024080000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Edição das 07h - Ao Vivo</title>
+  </programme>
+  <programme start="20261024080000 -0300" stop="20261024100000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Edição das 08h - Ao Vivo</title>
+  </programme>
+  <programme start="20261024100000 -0300" stop="20261024110000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
+  </programme>
+  <programme start="20261024110000 -0300" stop="20261024123000 -0300" channel="Globo FHD">
+    <title lang="pt">Globo Rural</title>
+  </programme>
+  <programme start="20261024123000 -0300" stop="20261024142000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Edição do Meio-dia - Ao Vivo</title>
+  </programme>
+  <programme start="20261024142000 -0300" stop="20261024150000 -0300" channel="Globo FHD">
+    <title lang="pt">Pequenas Empresas &amp;amp; Grandes Negócios</title>
+  </programme>
+  <programme start="20261024150000 -0300" stop="20261024173000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Edição das 15h - Ao Vivo</title>
+  </programme>
+  <programme start="20261024173000 -0300" stop="20261024180000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Especial</title>
+  </programme>
+  <programme start="20261024180000 -0300" stop="20261024193000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews Edição das 18h - Ao Vivo</title>
+  </programme>
+  <programme start="20261024193000 -0300" stop="20261024200000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Internacional - Ao Vivo</title>
+  </programme>
+  <programme start="20261024200000 -0300" stop="20261024220000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews Edição das 18h - Ao Vivo</title>
+  </programme>
+  <programme start="20261024220000 -0300" stop="20261024233500 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20261024233500 -0300" stop="20261025023500 -0300" channel="Globo FHD">
+    <title lang="pt">Fantástico</title>
+  </programme>
+  <programme start="20261025023500 -0300" stop="20261025032000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20261025032000 -0300" stop="20261025040000 -0300" channel="Globo FHD">
+    <title lang="pt">Pequenas Empresas &amp;amp; Grandes Negócios</title>
+  </programme>
+  <programme start="20261025040000 -0300" stop="20261025050000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20261025050000 -0300" stop="20261025060000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20261025060000 -0300" stop="20261025063000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20261025063000 -0300" stop="20261025082500 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Em Ponto - Ao Vivo</title>
+  </programme>
+  <programme start="20261025082500 -0300" stop="20261025110000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Radar - Ao Vivo</title>
+  </programme>
+  <programme start="20261025110000 -0300" stop="20261025130000 -0300" channel="Globo FHD">
+    <title lang="pt">Conexão GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20261025130000 -0300" stop="20261025160000 -0300" channel="Globo FHD">
+    <title lang="pt">Estúdio i - Ao Vivo</title>
+  </programme>
+  <programme start="20261025160000 -0300" stop="20261025180000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Mais - Ao Vivo</title>
+  </programme>
+  <programme start="20261025180000 -0300" stop="20261025200000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews Edição das 18h - Ao Vivo</title>
+  </programme>
+  <programme start="20261025200000 -0300" stop="20261025220000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Em Pauta</title>
+  </programme>
+  <programme start="20261025220000 -0300" stop="20261025233000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20261025233000 -0300" stop="20261026000000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Especial</title>
+  </programme>
+  <programme start="20261026000000 -0300" stop="20261026010000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews Edição da Meia-noite - Ao Vivo</title>
+  </programme>
+  <programme start="20261026010000 -0300" stop="20261026030000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Em Pauta</title>
+  </programme>
+  <programme start="20261026030000 -0300" stop="20261026033000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Especial</title>
+  </programme>
+  <programme start="20261026033000 -0300" stop="20261026050000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20261026050000 -0300" stop="20261026060000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20261026060000 -0300" stop="20261026063000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20261026063000 -0300" stop="20261026082500 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Em Ponto - Ao Vivo</title>
+  </programme>
+  <programme start="20261026082500 -0300" stop="20261026110000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Radar - Ao Vivo</title>
+  </programme>
+  <programme start="20261026110000 -0300" stop="20261026130000 -0300" channel="Globo FHD">
+    <title lang="pt">Conexão GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20261026130000 -0300" stop="20261026160000 -0300" channel="Globo FHD">
+    <title lang="pt">Estúdio i - Ao Vivo</title>
+  </programme>
+  <programme start="20261026160000 -0300" stop="20261026180000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Mais - Ao Vivo</title>
+  </programme>
+  <programme start="20261026180000 -0300" stop="20261026200000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews Edição das 18h - Ao Vivo</title>
+  </programme>
+  <programme start="20261026200000 -0300" stop="20261026220000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Em Pauta</title>
+  </programme>
+  <programme start="20261026220000 -0300" stop="20261026233000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20261026233000 -0300" stop="20261027000000 -0300" channel="Globo FHD">
+    <title lang="pt">Programação do Canal</title>
+  </programme>
+  <programme start="20261027000000 -0300" stop="20261027010000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews Edição da Meia-noite - Ao Vivo</title>
+  </programme>
+  <programme start="20261027010000 -0300" stop="20261027030000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Em Pauta</title>
+  </programme>
+  <programme start="20261027030000 -0300" stop="20261027033000 -0300" channel="Globo FHD">
+    <title lang="pt">Programação do Canal</title>
+  </programme>
+  <programme start="20261027033000 -0300" stop="20261027050000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20261027050000 -0300" stop="20261027060000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20261027060000 -0300" stop="20261027063000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20261027063000 -0300" stop="20261027082500 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Em Ponto - Ao Vivo</title>
+  </programme>
+  <programme start="20261027082500 -0300" stop="20261027110000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Radar - Ao Vivo</title>
+  </programme>
+  <programme start="20261027110000 -0300" stop="20261027130000 -0300" channel="Globo FHD">
+    <title lang="pt">Conexão GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20261027130000 -0300" stop="20261027160000 -0300" channel="Globo FHD">
+    <title lang="pt">Estúdio i - Ao Vivo</title>
+  </programme>
+  <programme start="20261027160000 -0300" stop="20261027180000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Mais - Ao Vivo</title>
+  </programme>
+  <programme start="20261027180000 -0300" stop="20261027200000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal GloboNews Edição das 18h - Ao Vivo</title>
+  </programme>
+  <programme start="20261027200000 -0300" stop="20261027220000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Em Pauta</title>
+  </programme>
+  <programme start="20261027220000 -0300" stop="20261027233000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20261027233000 -0300" stop="20261028000000 -0300" channel="Globo FHD">
+    <title lang="pt">GloboNews Miriam Leitão</title>
+  </programme>
+  <programme start="20261021052500 -0300" stop="20261021065000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Muito Bem Acompanhada</title>
+  </programme>
+  <programme start="20261021065000 -0300" stop="20261021082500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Princesa Por Acidente</title>
+  </programme>
+  <programme start="20261021082500 -0300" stop="20261021100500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Eu Sou a Lenda</title>
+  </programme>
+  <programme start="20261021100500 -0300" stop="20261021120500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Queima de Arquivo</title>
+  </programme>
+  <programme start="20261021120500 -0300" stop="20261021142000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Círculo de Fogo</title>
+  </programme>
+  <programme start="20261021142000 -0300" stop="20261021162500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Invasão Zumbi 2: Península</title>
+  </programme>
+  <programme start="20261021162500 -0300" stop="20261021181500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Tempo</title>
+  </programme>
+  <programme start="20261021181500 -0300" stop="20261021201000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Alemão 2</title>
+  </programme>
+  <programme start="20261021201000 -0300" stop="20261021220000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Corra!</title>
+  </programme>
+  <programme start="20261021220000 -0300" stop="20261022001000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Sessão Superestreia: O Beijo da Mulher-Aranha</title>
+  </programme>
+  <programme start="20261022001000 -0300" stop="20261022022500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Empregada</title>
+  </programme>
+  <programme start="20261022022500 -0300" stop="20261022041500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Telefone Preto</title>
+  </programme>
+  <programme start="20261022041500 -0300" stop="20261022060500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Emmanuelle</title>
+  </programme>
+  <programme start="20261022060500 -0300" stop="20261022080000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Múmia: Tumba Do Imperador Dragão</title>
+  </programme>
+  <programme start="20261022080000 -0300" stop="20261022093500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Alvin E Os Esquilos</title>
+  </programme>
+  <programme start="20261022093500 -0300" stop="20261022111000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Viagem 2: A Ilha Misteriosa</title>
+  </programme>
+  <programme start="20261022111000 -0300" stop="20261022123500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Muito Bem Acompanhada</title>
+  </programme>
+  <programme start="20261022123500 -0300" stop="20261022142500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Agentes Muito Especiais</title>
+  </programme>
+  <programme start="20261022142500 -0300" stop="20261022163500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Orgulho E Preconceito</title>
+  </programme>
+  <programme start="20261022163500 -0300" stop="20261022182000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Fúria Sobre Rodas</title>
+  </programme>
+  <programme start="20261022182000 -0300" stop="20261022203500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Drácula: Uma História de Amor Eterno</title>
+  </programme>
+  <programme start="20261022203500 -0300" stop="20261022220000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Socorro! Minha Babá Tirou Férias!</title>
+  </programme>
+  <programme start="20261022220000 -0300" stop="20261023000000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Kong: A Ilha Da Caveira</title>
+  </programme>
+  <programme start="20261023000000 -0300" stop="20261023014000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Lutador De Rua</title>
+  </programme>
+  <programme start="20261023014000 -0300" stop="20261023033000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Corra!</title>
+  </programme>
+  <programme start="20261023033000 -0300" stop="20261023052500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Halloween Ends</title>
+  </programme>
+  <programme start="20261023052500 -0300" stop="20261023071000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Duelo</title>
+  </programme>
+  <programme start="20261023071000 -0300" stop="20261023092000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Doze Homens e Outro Segredo</title>
+  </programme>
+  <programme start="20261023092000 -0300" stop="20261023094500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Aceito</title>
+  </programme>
+  <programme start="20261023094500 -0300" stop="20261023115500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Van Helsing - O Caçador De Monstros</title>
+  </programme>
+  <programme start="20261023115500 -0300" stop="20261023141000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Um Sonho Possível</title>
+  </programme>
+  <programme start="20261023141000 -0300" stop="20261023154500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Abominável</title>
+  </programme>
+  <programme start="20261023154500 -0300" stop="20261023180000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Círculo de Fogo</title>
+  </programme>
+  <programme start="20261023180000 -0300" stop="20261023194000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Rota De Fuga 3 - O Resgate</title>
+  </programme>
+  <programme start="20261023194000 -0300" stop="20261023215500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Empregada</title>
+  </programme>
+  <programme start="20261023215500 -0300" stop="20261023220000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Preview No Pipoca</title>
+  </programme>
+  <programme start="20261023220000 -0300" stop="20261023235000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Velvet Lounge: Noites de Caça</title>
+  </programme>
+  <programme start="20261023235000 -0300" stop="20261024020000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Deuses Do Egito</title>
+  </programme>
+  <programme start="20261024020000 -0300" stop="20261024034000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Desconhecidos</title>
+  </programme>
+  <programme start="20261024034000 -0300" stop="20261024061500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Os Infiltrados</title>
+  </programme>
+  <programme start="20261024061500 -0300" stop="20261024081500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Escolha Perfeita (2012)</title>
+  </programme>
+  <programme start="20261024081500 -0300" stop="20261024100000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Casa do Lago</title>
+  </programme>
+  <programme start="20261024100000 -0300" stop="20261024114000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Grande Dave</title>
+  </programme>
+  <programme start="20261024114000 -0300" stop="20261024133000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Como Treinar o Seu Dragão 3</title>
+  </programme>
+  <programme start="20261024133000 -0300" stop="20261024133500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Preview No Pipoca</title>
+  </programme>
+  <programme start="20261024133500 -0300" stop="20261024152000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Vovó... Zona 2</title>
+  </programme>
+  <programme start="20261024152000 -0300" stop="20261024175500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Stray Kids: The DominATE Experience</title>
+  </programme>
+  <programme start="20261024175500 -0300" stop="20261024194500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Fúria Sobre Rodas</title>
+  </programme>
+  <programme start="20261024194500 -0300" stop="20261024220000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Beijo da Mulher-Aranha</title>
+  </programme>
+  <programme start="20261024220000 -0300" stop="20261024234000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Lutador De Rua</title>
+  </programme>
+  <programme start="20261024234000 -0300" stop="20261025012500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Perseguição em Taipei</title>
+  </programme>
+  <programme start="20261025012500 -0300" stop="20261025030500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">57 Segundos</title>
+  </programme>
+  <programme start="20261025030500 -0300" stop="20261025052000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Enterre Seus Mortos</title>
+  </programme>
+  <programme start="20261025052000 -0300" stop="20261025065000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Toc Toc Toc: Ecos do Além</title>
+  </programme>
+  <programme start="20261025065000 -0300" stop="20261025084500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Os Três Mosqueteiros: Milady</title>
+  </programme>
+  <programme start="20261025084500 -0300" stop="20261025105500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Orgulho E Preconceito</title>
+  </programme>
+  <programme start="20261025105500 -0300" stop="20261025124500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Um Suburbano Sortudo</title>
+  </programme>
+  <programme start="20261025124500 -0300" stop="20261025142500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Os Croods</title>
+  </programme>
+  <programme start="20261025142500 -0300" stop="20261025163000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Deuses Do Egito</title>
+  </programme>
+  <programme start="20261025163000 -0300" stop="20261025180000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Os Flintstones: O Filme</title>
+  </programme>
+  <programme start="20261025180000 -0300" stop="20261025200000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Kong: A Ilha Da Caveira</title>
+  </programme>
+  <programme start="20261025200000 -0300" stop="20261025214000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Sessão Superestreia: A Noite dos Lobisomens</title>
+  </programme>
+  <programme start="20261025214000 -0300" stop="20261025232000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Mestre do Crime</title>
+  </programme>
+  <programme start="20261025232000 -0300" stop="20261026020000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Gladiador</title>
+  </programme>
+  <programme start="20261026020000 -0300" stop="20261026045000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Boyhood: Da Infância À Juventude</title>
+  </programme>
+  <programme start="20261026045000 -0300" stop="20261026064000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Como Treinar o Seu Dragão 3</title>
+  </programme>
+  <programme start="20261026064000 -0300" stop="20261026081500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">As Apimentadas Mandando Ver</title>
+  </programme>
+  <programme start="20261026081500 -0300" stop="20261026084000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Pai Da Rainha De Angola</title>
+  </programme>
+  <programme start="20261026084000 -0300" stop="20261026102500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Apex</title>
+  </programme>
+  <programme start="20261026102500 -0300" stop="20261026123000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Red Rooms: Obsessão Doentia</title>
+  </programme>
+  <programme start="20261026123000 -0300" stop="20261026142000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Ela Dança, Eu Danço</title>
+  </programme>
+  <programme start="20261026142000 -0300" stop="20261026162500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Jurassic World: O Mundo Dos Dinossauros</title>
+  </programme>
+  <programme start="20261026162500 -0300" stop="20261026181500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Perseguição em Taipei</title>
+  </programme>
+  <programme start="20261026181500 -0300" stop="20261026201000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Bem-Vinda A Quixeramobim</title>
+  </programme>
+  <programme start="20261026201000 -0300" stop="20261026220000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Fúria de Titãs</title>
+  </programme>
+  <programme start="20261026220000 -0300" stop="20261026234000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Sem Deixar Vestígios</title>
+  </programme>
+  <programme start="20261026234000 -0300" stop="20261027012500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Vovó... Zona 2</title>
+  </programme>
+  <programme start="20261027012500 -0300" stop="20261027032500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Caçada Mortal</title>
+  </programme>
+  <programme start="20261027032500 -0300" stop="20261027060000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Regresso</title>
+  </programme>
+  <programme start="20261027060000 -0300" stop="20261027082500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Ainda Estou Aqui</title>
+  </programme>
+  <programme start="20261027082500 -0300" stop="20261027102500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Minha Irmã E Eu</title>
+  </programme>
+  <programme start="20261027102500 -0300" stop="20261027124500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Noé</title>
+  </programme>
+  <programme start="20261027124500 -0300" stop="20261027141500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Madagascar 2: A Grande Escapada</title>
+  </programme>
+  <programme start="20261027141500 -0300" stop="20261027155500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Mestre do Crime</title>
+  </programme>
+  <programme start="20261027155500 -0300" stop="20261027173500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Fera do Pântano</title>
+  </programme>
+  <programme start="20261027173500 -0300" stop="20261027201000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Gladiador</title>
+  </programme>
+  <programme start="20261027201000 -0300" stop="20261027220000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Os Farofeiros 2</title>
+  </programme>
+  <programme start="20261027220000 -0300" stop="20261028001000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Drácula: Uma História de Amor Eterno</title>
+  </programme>
 </tv>
