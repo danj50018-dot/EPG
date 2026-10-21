@@ -1,0 +1,100 @@
+#EXTM3U8
+
+#EXTINF:-1 tvg-id="http://www.meuguia.tv" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="canais abertos",SBT 
+http://64.31.23.207:80/59471019/60849037/324302.m3u8
+
+#EXTINF:-1 tvg-id="http://www.meuguia.tv" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tv-globo-logo-png_seeklogo-143446.png" group-title="canais abertos",Globo 
+http://vivlar.me:80/live/497238/KK8Kdy/131182.m3u8
+
+#EXTINF:-1 tvg-id="http://www.meuguia.tv" tvg-logo="https://img.faz-o-eli.online/globorj.png" group-title="canais abertos",Globo FHD
+http://vivlar.me:80/live/497238/KK8Kdy/72025.m3u8
+
+#EXTINF:-1 tvg-id="http://www.meuguia.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="canais abertos",Record Tv
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/71697.m3u8
+
+#EXTINF:-1 tvg-id="http://www.meuguia.tv" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2022/05/cartoonito_logo_freelogovectors.net_.png" group-title="Infantil",Cartoonito
+http://vivlar.me:80/live/497238/KK8Kdy/71815.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito@br" tvg-logo="https://play-lh.googleusercontent.com/ODDc_9fOjSTHcrrkXi8VY73UMBryvrncUQ0VgQzwJ8_6utccMRuK4-KOVygIL0zlz0MSI878-gtKrpKwdLeFMQ" group-title="Infantil",Cartoonito HD
+http://vivlar.me:80/live/497238/KK8Kdy/71814.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito@br" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e2ee9ad1-25b4-49d4-8d2b-461ca67d2e64/dhkic51-460f1490-0f43-43e1-b7bb-f9a5a0ce2efd.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9lMmVlOWFkMS0yNWI0LTQ5ZDQtOGQyYi00NjFjYTY3ZDJlNjQvZGhraWM1MS00NjBmMTQ5MC0wZjQzLTQzZTEtYjdiYi1mOWE1YTBjZTJlZmQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2b2RIbzIBlzjEML0uwhTDNYldC5JKusVpsUvoUTx5cE" group-title="Infantil",Cartoonito FHD
+http://64.31.23.207:80/59471019/60849037/1882631.m3u8
+
+#EXTINF:-1 site_id="CAR" tvg-logo="https://today-obs.line-scdn.net/0hHpNaVO1XF19zGAJ3ts9oCEtOGy5Afg1WUXsPMAZNGT1eNFUJGH1EPFAZSXNXKAMNU34NalEeSWpcLFENTw/w280" group-title="Infantil",Cartoon Network 
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/13504.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-logo="https://img.faz-o-eli.online/cartoonnetwork.png" group-title="Infantil",Cartoon Network HD
+http://64.31.23.207:80/59471019/60849037/1882622.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-logo="https://www.citypng.com/public/uploads/preview/cartoon-network-cn-logo-hd-png-701751694708568zxoq18qbzl.png" group-title="Infantil",Cartoon Network FHD
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/125439.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito@br" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7435b0f2-f48b-43a4-9fe1-e597ab5aa1ee/di116gy-6ee5c888-0e50-49e9-86f3-ee39f9df4ea5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83NDM1YjBmMi1mNDhiLTQzYTQtOWZlMS1lNTk3YWI1YWExZWUvZGkxMTZneS02ZWU1Yzg4OC0wZTUwLTQ5ZTktODZmMy1lZTM5ZjlkZjRlYTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UlAAjj12bZ0gOvDf80MEFgYQogrSpyGSQXJdZLPQxSc" group-title="Infantil",Adult Swim 
+http://vivlar.me:80/live/497238/KK8Kdy/251959.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito@br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Short_Nick_2023_Logo_%28Outline%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=originalInfantil" group-title="Infantil",Nick Online
+https://x1colegal.com/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="https://x1colegal.com/logo.png" group-title="Infantil",NickOnline HD (720p)
+https://x1colegal.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito@br" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png"  group-title="24H",Nickelodeon iCarly
+https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
+
+#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2024/04/65/662bd780de5a5_com.nickonline.android.nickapp-384x384.png" group-title="Infantil",Nickelodeon
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png" group-title="Infantil",NickToons
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo=" https://mondrian.claro.com.br/channels/inverse/tooncast.png" group-title="Infantil",Tooncast 
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/9150.m3u8
+
+#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo=" https://mondrian.claro.com.br/channels/inverse/tooncast.png" group-title="Infantil",Tooncast FHD
+http://64.31.23.207:80/59471019/60849037/1882638.m3u8
+
+#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Esportes",Disney+ 01
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169096.m3u8
+
+#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Esportes",Disney+ 02
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169098.m3u8
+
+#EXTINF:-1  site_id="MPX" tvg-logo=" https://img.faz-o-eli.online/megapix.png" group-title="Filmes e Series",Megapix
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/43933.m3u8
+
+#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="https://pbs.twimg.com/profile_images/1686344924143251456/uQ5ae0-8_400x400.jpg" group-title="Filmes e Series",Megapix HD
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/8962.m3u8
+
+#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="https://imagem.natelinha.uol.com.br/grande/megapix.jpg" group-title="Filmes e Series",Megapix FHD
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/8961.m3u8
+
+#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="https://img.faz-o-eli.online/telecineaction.png" group-title="Filmes e Series",Telecine Action
+http://vivlar.me:80/live/497238/KK8Kdy/90666.m3u8
+
+#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/TelecineAction2021.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Filmes e Series",Telecine Action HD
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/30135.m3u8
+
+#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="https://images.seeklogo.com/logo-png/13/2/tele-cine-action-logo-png_seeklogo-136917.png" group-title="Filmes e Series",Telecine Action FHD
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/94375.m3u8
+
+#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="https://img.faz-o-eli.online/telecinepipoca.png" group-title="Filmes e Series",Telecine Pipoca
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/24536.m3u8
+
+#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="https://img.faz-o-eli.online/telecinepipoca.png" group-title="Filmes e Series",Telecine Pipoca HD
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/30141.m3u8
+
+#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="https://img.faz-o-eli.online/telecinepipoca.png" group-title="Filmes e Series",Telecine Pipoca FHD
+http://vivlar.me:80/live/497238/KK8Kdy/72358.m3u8
+
+#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="https://s2-globo-play.glbimg.com/BdeangvCtGds2CWxH7Kee1-Ydxk=/285x285/filters:quality(100)/https://s2-globo-play.glbimg.com/kXZuy0ffJyrWsX6WzOReEdFRyYM=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/B/T/AfE0JCSeaBKFk3A07o9w/premium.png" group-title="Filmes e Series", Telecine Premium
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/24537.m3u8
+
+#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo=" https://img.faz-o-eli.online/telecinepremium.png" group-title="Filmes e Series", Telecine Premium HD
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/9134.m3u8
+
+#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo=" https://img.faz-o-eli.online/telecinepremium.png" group-title="Filmes e Series", Telecine Premium FHD
+http://vivlar.me:80/live/497238/KK8Kdy/72362.m3u8
+
+#EXTINF:-1 site_id="HFA" tvg-logo="https://img.faz-o-eli.online/hbofamily.png" group-title="Filmes e Series",HBO Family
+http://vivlar.me:80/live/497238/KK8Kdy/72115.m3u8
